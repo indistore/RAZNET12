@@ -6,27 +6,27 @@ https://www.googleapis.com/drive/v3/files/19cw1gbQD3kW2TTqzk1spWo8m5x_-x8pv?alt=
 
 ==========================================================================BOLA INDO VS CHINA ===================================================================================
 
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="BOLA INDO VS CHINA",-- VISION + 1 --
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="BOLA INDO VS CHINA",-- VISION+ 1 --
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://av-ch-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash/MNCSports-HD.mpd
+https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="BOLA INDO VS CHINA",-- VISION + 2 --
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="BOLA INDO VS CHINA",-- VISION+ 2 --
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash/MNCSports2-HD.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
 
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="BOLA INDO VS CHINA",-- VISION + 3 --
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="BOLA INDO VS CHINA",-- VISION+ 3 --
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://av-ch-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash/MNCSports3-HD.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="BOLA INDO VS CHINA",-- VISION + 4 --
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="BOLA INDO VS CHINA",-- VISION+ 4 --
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://av-ch-cdn.mncnow.id/live/eds/Sportstar4/sa_dash/Sportstar4.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 
